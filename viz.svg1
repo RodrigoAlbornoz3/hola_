@@ -1,0 +1,281 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1005" height="600">
+    <rect width="1005" height="600" x="0" y="0" fill="#FFFFFF" id="background" />
+    <g id="viz">
+        <g transform="translate(0,0)">
+            <g transform="translate(100,50)">
+                <g class="bars">
+                    <rect
+                        id="undefined - PUC"
+                        x="532.5986487354533"
+                        y="8.550000000000008"
+                        height="441.45"
+                        width="27.981742689012098"
+                        fill="#1f77b4"
+                    />
+                    <rect
+                        id="undefined - U. de Chile"
+                        x="565.3489516643435"
+                        y="35.99999999999998"
+                        height="414"
+                        width="27.981742689012098"
+                        fill="#ff7f0e"
+                    />
+                    <rect
+                        id="undefined - UDD"
+                        x="598.0992545932337"
+                        y="386.55"
+                        height="63.44999999999999"
+                        width="27.981742689012098"
+                        fill="#2ca02c"
+                    />
+                    <rect
+                        id="undefined - PUC"
+                        x="280.25882572660373"
+                        y="15.300000000000013"
+                        height="434.7"
+                        width="27.981742689012098"
+                        fill="#1f77b4"
+                    />
+                    <rect
+                        id="undefined - U. de Chile"
+                        x="313.00912865549395"
+                        y="67.05000000000001"
+                        height="382.95"
+                        width="27.981742689012098"
+                        fill="#ff7f0e"
+                    />
+                    <rect
+                        id="undefined - UDD"
+                        x="345.7594315843842"
+                        y="369.9"
+                        height="80.10000000000002"
+                        width="27.981742689012098"
+                        fill="#2ca02c"
+                    />
+                    <rect
+                        id="undefined - PUC"
+                        x="27.919002717754182"
+                        y="277.65"
+                        height="172.35000000000002"
+                        width="27.981742689012098"
+                        fill="#1f77b4"
+                    />
+                    <rect
+                        id="undefined - U. de Chile"
+                        x="60.669305646644375"
+                        y="405.45"
+                        height="44.55000000000001"
+                        width="27.981742689012098"
+                        fill="#ff7f0e"
+                    />
+                    <rect
+                        id="undefined - UDD"
+                        x="93.41960857553457"
+                        y="376.20000000000005"
+                        height="73.79999999999995"
+                        width="27.981742689012098"
+                        fill="#2ca02c"
+                    />
+                    <rect
+                        id="undefined - PUC"
+                        x="154.08891422217897"
+                        y="91.34999999999998"
+                        height="358.65000000000003"
+                        width="27.981742689012098"
+                        fill="#1f77b4"
+                    />
+                    <rect
+                        id="undefined - U. de Chile"
+                        x="186.83921715106916"
+                        y="104.39999999999999"
+                        height="345.6"
+                        width="27.981742689012098"
+                        fill="#ff7f0e"
+                    />
+                    <rect
+                        id="undefined - UDD"
+                        x="219.58952007995936"
+                        y="334.8"
+                        height="115.19999999999999"
+                        width="27.981742689012098"
+                        fill="#2ca02c"
+                    />
+                    <rect
+                        id="undefined - PUC"
+                        x="406.42873723102855"
+                        y="0.9000000000000008"
+                        height="449.1"
+                        width="27.981742689012098"
+                        fill="#1f77b4"
+                    />
+                    <rect
+                        id="undefined - U. de Chile"
+                        x="439.1790401599187"
+                        y="19.349999999999966"
+                        height="430.65000000000003"
+                        width="27.981742689012098"
+                        fill="#ff7f0e"
+                    />
+                    <rect
+                        id="undefined - UDD"
+                        x="471.9293430888089"
+                        y="416.7"
+                        height="33.30000000000001"
+                        width="27.981742689012098"
+                        fill="#2ca02c"
+                    />
+                </g>
+                <g
+                    id="xAxis"
+                    transform="translate(0,450)"
+                    fill="none"
+                    font-size="10"
+                    font-family="sans-serif"
+                    text-anchor="middle"
+                >
+                    <path class="domain" stroke="currentColor" d="M0.5,0.5H654.5" />
+                    <g class="tick" opacity="1" transform="translate(74.66017699115042,0)">
+                        <line stroke="currentColor" y2="6" />
+                        <text fill="currentColor" y="9" dy="0.71em">Estudiantes por académico</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(200.8300884955752,0)">
+                        <line stroke="currentColor" y2="6" />
+                        <text fill="currentColor" y="9" dy="0.71em">Red de investigación</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(327,0)">
+                        <line stroke="currentColor" y2="6" />
+                        <text fill="currentColor" y="9" dy="0.71em">Reputación empleadores</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(453.16991150442476,0)">
+                        <line stroke="currentColor" y2="6" />
+                        <text fill="currentColor" y="9" dy="0.71em">Empleabilidad</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(579.3398230088495,0)">
+                        <line stroke="currentColor" y2="6" />
+                        <text fill="currentColor" y="9" dy="0.71em">Reputación académica</text>
+                    </g>
+                </g>
+                <g id="yAxis" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
+                    <path class="domain" stroke="currentColor" d="M0.5,450.5V0.5" />
+                    <g class="tick" opacity="1" transform="translate(0,450.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">0</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,405.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">10</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,360.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">20</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,315.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">30</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,270.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">40</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,225.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">50</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,180.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">60</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,135.50000000000003)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">70</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,90.49999999999999)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">80</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,45.49999999999999)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">90</text>
+                    </g>
+                    <g class="tick" opacity="1" transform="translate(0,0.5)">
+                        <line stroke="currentColor" x2="-6" />
+                        <text fill="currentColor" x="-9" dy="0.32em">100</text>
+                    </g>
+                </g>
+                <text
+                    y="446"
+                    x="654"
+                    text-anchor="end"
+                    style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold"
+                >
+                    Sets
+                </text>
+                <text
+                    y="0"
+                    x="4"
+                    dominant-baseline="hanging"
+                    text-anchor="start"
+                    style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold"
+                >
+                    Value
+                </text>
+            </g>
+            <text
+                x="4"
+                y="4"
+                style="
+                    font-family: Arial, sans-serif;
+                    font-size: 12px;
+                    fill: black;
+                    font-weight: bold;
+                    dominant-baseline: hanging;
+                "
+            />
+        </g>
+        <g id="grid"><rect x="0" y="0" width="805" height="600" fill="none" stroke="#ccc" /></g>
+    </g>
+    <g id="legend" transform="translate(805,50)">
+        <g transform="translate(5,0)">
+            <g class="legendColor" transform="translate(0,0)">
+                <g class="legendCells" transform="translate(0,16)">
+                    <g class="cell" transform="translate(0, 0)">
+                        <rect class="swatch" height="15" width="15" style="fill: rgb(31, 119, 180)" />
+                        <text
+                            class="label"
+                            transform="translate( 20, 12.5)"
+                            font-family='"Arial", sans-serif'
+                            font-size="10px"
+                        >
+                            <tspan x="0" dy="0em">PUC</tspan>
+                        </text>
+                    </g>
+                    <g class="cell" transform="translate(0, 21)">
+                        <rect class="swatch" height="15" width="15" style="fill: rgb(255, 127, 14)" />
+                        <text
+                            class="label"
+                            transform="translate( 20, 12.5)"
+                            font-family='"Arial", sans-serif'
+                            font-size="10px"
+                        >
+                            <tspan x="0" dy="0em">U. de Chile</tspan>
+                        </text>
+                    </g>
+                    <g class="cell" transform="translate(0, 42)">
+                        <rect class="swatch" height="15" width="15" style="fill: rgb(44, 160, 44)" />
+                        <text
+                            class="label"
+                            transform="translate( 20, 12.5)"
+                            font-family='"Arial", sans-serif'
+                            font-size="10px"
+                        >
+                            <tspan x="0" dy="0em">UDD</tspan>
+                        </text>
+                    </g>
+                </g>
+                <text class="legendTitle" font-family='"Arial", sans-serif' font-size="12px" font-weight="bold">
+                    <tspan x="0" dy="0em">Colors</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
